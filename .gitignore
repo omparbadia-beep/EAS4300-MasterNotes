@@ -1,0 +1,12 @@
+# OS / OneDrive cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+
+# Obsidian app state (local to this machine; OneDrive already syncs it)
+.obsidian/
+
+# Ad-hoc backup archives (stale duplicates of tracked markdown)
+*.zip
